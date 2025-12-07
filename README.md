@@ -2,10 +2,6 @@
 
 # Endless Text Narrator
 
-[Build & Release Desktop App](https://github.com/AjarnSpencer/endless-text-narrator/actions/workflows/build-and-release.yml)
-
-[License: Apache 2.0](https://opensource.org/licenses/Apache-2.0)
-
 An advanced text-to-speech narrator and real-time conversational AI application built with React, TypeScript, Electron, and the Google Gemini API.
 
 This application allows for the creation of long-form audio narrations from text with SSML support, voice style customization, and multi-language translation. It also features a real-time voice conversation mode with live transcription.
@@ -85,5 +81,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
   <p>The fastest path from prompt to production with Gemini.</p>
 
   <a href="https://aistudio.google.com/apps">Start building</a>
+[Build & Release Desktop App](https://github.com/AjarnSpencer/endless-text-narrator/actions/workflows/build-and-release.yml)
 
+[License: Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 </div>
