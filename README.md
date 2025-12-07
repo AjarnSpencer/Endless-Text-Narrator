@@ -2,8 +2,9 @@
 
 # Endless Text Narrator
 
-[Build & Release Desktop App](https://github.com/AjarnSpencer/endless-text-narrator/actions/workflows/build-and-release.yml/badge.svg)](https://github.com/AjarnSpencer/endless-text-narrator/actions/workflows/build-and-release.yml)
-[License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[Build & Release Desktop App](https://github.com/AjarnSpencer/endless-text-narrator/actions/workflows/build-and-release.yml)
+
+[License: Apache 2.0](https://opensource.org/licenses/Apache-2.0)
 
 An advanced text-to-speech narrator and real-time conversational AI application built with React, TypeScript, Electron, and the Google Gemini API.
 
