@@ -7,7 +7,7 @@
 ### This application allows for the creation of long-form audio narrations from text with SSML support, voice style customization, and multi-language translation. It also features a real-time voice conversation mode with live transcription.
 </div>
 
-![App Screenshot](./assets/screenshot.png) App Icon 
+![App Screenshot](./assets/screenshot.png)
   
 <div align="left">
 
