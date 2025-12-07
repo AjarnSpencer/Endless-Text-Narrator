@@ -7,7 +7,7 @@ An advanced text-to-speech narrator and real-time conversational AI application 
 This application allows for the creation of long-form audio narrations from text with SSML support, voice style customization, and multi-language translation. It also features a real-time voice conversation mode with live transcription.
 
 ![App Screenshot](./assets/screenshot.png) 
-![App Screenshot](./assets/endless-text-narrator-desktop.png) Screenshot of Narrator Mode)
+
 
 ## Features
 
@@ -18,6 +18,10 @@ This application allows for the creation of long-form audio narrations from text
 -   **Conversation Mode**: Engage in real-time, low-latency voice conversations with a Gemini-powered AI.
 -   **Live Transcription**: See a live transcript of the conversation as you speak with the AI.
 -   **Cross-Platform Desktop App**: Packaged with Electron for a native experience on Windows, macOS, and Linux.
+
+## Screenshots:
+
+![App Screenshot](./assets/endless-text-narrator-desktop.png) Screenshot of Narrator Mode)
 
 ## Prerequisites
 
