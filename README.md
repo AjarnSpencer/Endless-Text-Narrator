@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # Endless Text Narrator
 
@@ -6,9 +6,9 @@
 
 ### This application allows for the creation of long-form audio narrations from text with SSML support, voice style customization, and multi-language translation. It also features a real-time voice conversation mode with live transcription.
 </div>
-<div align="center">
-![App Screenshot](./assets/screenshot.png) 
-</div>
+
+![App Screenshot](./assets/screenshot.png) App Icon 
+  
 <div align="left">
 
 ## Features
