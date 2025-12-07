@@ -1,13 +1,14 @@
-<div align="center">
+<div align="left">
 
 # Endless Text Narrator
 
 ## An advanced text-to-speech narrator and real-time conversational AI application built with React, TypeScript, Electron, and the Google Gemini API.
 
 ### This application allows for the creation of long-form audio narrations from text with SSML support, voice style customization, and multi-language translation. It also features a real-time voice conversation mode with live transcription.
-
+<div align="center">
 ![App Screenshot](./assets/screenshot.png) 
-
+</div>
+<div align="left">
 
 ## Features
 
@@ -20,8 +21,12 @@
 -   **Cross-Platform Desktop App**: Packaged with Electron for a native experience on Windows, macOS, and Linux.
 
 ## Screenshots:
+</div>
+<div align="left">
 
 ![App Screenshot](./assets/endless-text-narrator-desktop.png) Screenshot of Narrator Mode)
+</div>
+<div align="left">
 
 ## Prerequisites
 
