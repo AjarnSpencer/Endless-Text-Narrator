@@ -25,7 +25,7 @@
 </div>
 <div align="left">
 
-![App Screenshot](./assets/endless-text-narrator-desktop.png) Screenshot of Narrator Mode)
+![App Screenshot](./assets/endless-text-narrator-desktop.png)
 </div>
 <div align="left">
 
