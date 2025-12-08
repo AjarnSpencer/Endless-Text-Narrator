@@ -40,7 +40,7 @@ To run this application, you will need a **Google Gemini API Key**. The applicat
 
 - **This App is available for Window or Linux (.exe for Windows or .Zip for Linux)**:
 
-You can download the latest release for your operating system from the [Releases page](https://github.com/AjarnSpencer/endless-text-narrator/releases).
+### You can download the latest release for your operating system from the [Releases page](https://github.com/AjarnSpencer/endless-text-narrator/releases).
 
 Once installed, the application will prompt you to enter your Google Gemini API Key on the first launch. This key is stored securely in your browser's local storage and is not transmitted anywhere else.
 
